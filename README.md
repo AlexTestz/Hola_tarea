@@ -1,3 +1,7 @@
 # hello world en python
 
- Hello word in python
+This project deploys a "Hello World" message with python language.
+
+## REQUERIMENTS
+PYTHON
+
